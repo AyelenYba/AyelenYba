@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 <h3 align="center">I'm Ayelen from Buenos Aires, Argentina. <br/>
-- 🌱 Currently learning **front end development**.
+- 🌱 Currently learning **front end development.
 </h3>
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
