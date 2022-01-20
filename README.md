@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">I'm Ayelen from Buenos Aires, Argentina. <br/>
-- 🌱 Currently learning **front end development.
+<h3 align="justify">I'm Ayelen from Buenos Aires, Argentina. <br/> Currently learning front end development.
 </h3>
 
 
